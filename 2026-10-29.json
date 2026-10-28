@@ -1,0 +1,23 @@
+{
+  "date": "2026-10-29",
+  "layout": "square",
+  "source": "pexels",
+  "photographer": "Plato Terentev",
+  "source_url": "https://www.pexels.com/photo/autumn-forest-with-sunlight-filtering-through-trees-39922676/",
+  "pexels_photo_id": "39922676",
+  "weather_source": "Open-Meteo",
+  "nantou": {
+    "minimum": 21.0,
+    "maximum": 29.0,
+    "rain": 41.0,
+    "condition": "毛毛雨",
+    "advice": "舒適出門"
+  },
+  "taoyuan": {
+    "minimum": 20.0,
+    "maximum": 28.0,
+    "rain": 6.0,
+    "condition": "毛毛雨",
+    "advice": "舒適出門"
+  }
+}
