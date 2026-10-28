@@ -1,7 +1,23 @@
 {
   "date": "2026-10-28",
+  "layout": "landscape",
   "source": "pexels",
-  "photographer": "Sifat",
-  "source_url": "https://www.pexels.com/photo/boy-fishing-on-tranquil-lake-in-rural-setting-32587098/",
-  "pexels_photo_id": "32587098"
+  "photographer": "Dr Photographer",
+  "source_url": "https://www.pexels.com/photo/sunset-through-trees-in-serene-rural-landscape-35488835/",
+  "pexels_photo_id": "35488835",
+  "weather_source": "Open-Meteo",
+  "nantou": {
+    "minimum": 20.0,
+    "maximum": 28.0,
+    "rain": 2.0,
+    "condition": "多雲",
+    "advice": "舒適出門"
+  },
+  "taoyuan": {
+    "minimum": 20.0,
+    "maximum": 24.0,
+    "rain": 4.0,
+    "condition": "多雲",
+    "advice": "舒適出門"
+  }
 }
