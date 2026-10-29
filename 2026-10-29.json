@@ -8,15 +8,15 @@
   "weather_source": "Open-Meteo",
   "nantou": {
     "minimum": 21.0,
-    "maximum": 29.0,
-    "rain": 41.0,
-    "condition": "毛毛雨",
+    "maximum": 28.0,
+    "rain": 12.0,
+    "condition": "多雲",
     "advice": "舒適出門"
   },
   "taoyuan": {
-    "minimum": 20.0,
-    "maximum": 28.0,
-    "rain": 6.0,
+    "minimum": 21.0,
+    "maximum": 27.0,
+    "rain": 19.0,
     "condition": "毛毛雨",
     "advice": "舒適出門"
   }
