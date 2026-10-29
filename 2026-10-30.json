@@ -1,0 +1,23 @@
+{
+  "date": "2026-10-30",
+  "layout": "portrait",
+  "source": "pexels",
+  "photographer": "James Collington",
+  "source_url": "https://www.pexels.com/photo/scenic-aerial-view-of-mountain-through-airplane-window-40323315/",
+  "pexels_photo_id": "40323315",
+  "weather_source": "Open-Meteo",
+  "nantou": {
+    "minimum": 20.0,
+    "maximum": 29.0,
+    "rain": 2.0,
+    "condition": "多雲",
+    "advice": "舒適出門"
+  },
+  "taoyuan": {
+    "minimum": 20.0,
+    "maximum": 27.0,
+    "rain": 0.0,
+    "condition": "多雲",
+    "advice": "舒適出門"
+  }
+}
