@@ -1,0 +1,25 @@
+{
+  "date": "2026-10-31",
+  "layout": "landscape",
+  "source": "pexels",
+  "photographer": "Pixabay",
+  "source_url": "https://www.pexels.com/photo/grasses-facing-fogs-during-golden-hours-235816/",
+  "pexels_photo_id": "235816",
+  "blessing": "願今天有好天氣，也有好心情",
+  "photo_theme": "golden morning sunlight cheerful nature",
+  "weather_source": "Open-Meteo",
+  "nantou": {
+    "minimum": 18.0,
+    "maximum": 29.0,
+    "rain": 0.0,
+    "condition": "有霧",
+    "advice": "早晚添衣"
+  },
+  "taoyuan": {
+    "minimum": 21.0,
+    "maximum": 27.0,
+    "rain": 6.0,
+    "condition": "毛毛雨",
+    "advice": "舒適出門"
+  }
+}
