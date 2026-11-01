@@ -1,0 +1,25 @@
+{
+  "date": "2026-11-02",
+  "layout": "portrait",
+  "source": "pexels",
+  "photographer": "Carolin Wenske",
+  "source_url": "https://www.pexels.com/photo/photo-of-a-roe-deer-in-a-forest-19135990/",
+  "pexels_photo_id": "19135990",
+  "blessing": "新的一天，願一切平安順心",
+  "photo_theme": "peaceful deer forest lake sunrise nature",
+  "weather_source": "Open-Meteo",
+  "nantou": {
+    "minimum": 18.0,
+    "maximum": 30.0,
+    "rain": 2.0,
+    "condition": "多雲",
+    "advice": "注意防曬補水"
+  },
+  "taoyuan": {
+    "minimum": 22.0,
+    "maximum": 27.0,
+    "rain": 88.0,
+    "condition": "毛毛雨",
+    "advice": "記得帶傘"
+  }
+}
