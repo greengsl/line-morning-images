@@ -1,0 +1,25 @@
+{
+  "date": "2026-11-04",
+  "layout": "square",
+  "source": "pexels",
+  "photographer": "Nils Rotura",
+  "source_url": "https://www.pexels.com/photo/tranquil-winter-sunset-in-finnish-forest-34991207/",
+  "pexels_photo_id": "34991207",
+  "blessing": "願陽光與好事，都在今天與你相遇",
+  "photo_theme": "sun rays mountain meadow wildflowers nature",
+  "weather_source": "Open-Meteo",
+  "nantou": {
+    "minimum": 19.0,
+    "maximum": 29.0,
+    "rain": 22.0,
+    "condition": "毛毛雨",
+    "advice": "舒適出門"
+  },
+  "taoyuan": {
+    "minimum": 20.0,
+    "maximum": 30.0,
+    "rain": 16.0,
+    "condition": "多雲",
+    "advice": "注意防曬補水"
+  }
+}
