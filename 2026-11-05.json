@@ -1,0 +1,25 @@
+{
+  "date": "2026-11-05",
+  "layout": "portrait",
+  "source": "pexels",
+  "photographer": "Lada Rezantseva",
+  "source_url": "https://www.pexels.com/photo/sun-beam-through-plants-9586041/",
+  "pexels_photo_id": "9586041",
+  "blessing": "願今天有好天氣，也有好心情",
+  "photo_theme": "golden sunrise wildflower meadow nature",
+  "weather_source": "Open-Meteo",
+  "nantou": {
+    "minimum": 18.0,
+    "maximum": 30.0,
+    "rain": 0.0,
+    "condition": "晴朗",
+    "advice": "注意防曬補水"
+  },
+  "taoyuan": {
+    "minimum": 20.0,
+    "maximum": 30.0,
+    "rain": 0.0,
+    "condition": "有霧",
+    "advice": "注意防曬補水"
+  }
+}
