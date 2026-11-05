@@ -1,0 +1,25 @@
+{
+  "date": "2026-11-06",
+  "layout": "landscape",
+  "source": "pexels",
+  "photographer": "Erik Karits",
+  "source_url": "https://www.pexels.com/photo/butterfliess-perched-on-purple-flowers-10971428/",
+  "pexels_photo_id": "10971428",
+  "blessing": "帶著微笑出發，迎接美好的一天",
+  "photo_theme": "butterfly wildflowers sunrise nature",
+  "weather_source": "Open-Meteo",
+  "nantou": {
+    "minimum": 20.0,
+    "maximum": 30.0,
+    "rain": 19.0,
+    "condition": "有霧",
+    "advice": "注意防曬補水"
+  },
+  "taoyuan": {
+    "minimum": 22.0,
+    "maximum": 27.0,
+    "rain": 0.0,
+    "condition": "多雲",
+    "advice": "舒適出門"
+  }
+}
