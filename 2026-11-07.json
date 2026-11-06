@@ -1,0 +1,25 @@
+{
+  "date": "2026-11-07",
+  "layout": "square",
+  "source": "pexels",
+  "photographer": "Toni Clavel",
+  "source_url": "https://www.pexels.com/photo/serene-monochrome-landscape-in-aragon-38947608/",
+  "pexels_photo_id": "38947608",
+  "blessing": "新的一天，願一切平安順心",
+  "photo_theme": "peaceful deer forest lake sunrise nature",
+  "weather_source": "Open-Meteo",
+  "nantou": {
+    "minimum": 20.0,
+    "maximum": 30.0,
+    "rain": 47.0,
+    "condition": "毛毛雨",
+    "advice": "注意防曬補水"
+  },
+  "taoyuan": {
+    "minimum": 22.0,
+    "maximum": 26.0,
+    "rain": 0.0,
+    "condition": "多雲",
+    "advice": "舒適出門"
+  }
+}
