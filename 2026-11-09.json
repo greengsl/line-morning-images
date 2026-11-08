@@ -1,0 +1,25 @@
+{
+  "date": "2026-11-09",
+  "layout": "landscape",
+  "source": "pexels",
+  "photographer": "F1lter 88",
+  "source_url": "https://www.pexels.com/photo/view-of-a-mountain-under-the-cloudy-sky-12246821/",
+  "pexels_photo_id": "12246821",
+  "blessing": "願陽光與好事，都在今天與你相遇",
+  "photo_theme": "sun rays mountain meadow wildflowers nature",
+  "weather_source": "Open-Meteo",
+  "nantou": {
+    "minimum": 17.0,
+    "maximum": 27.0,
+    "rain": 0.0,
+    "condition": "多雲",
+    "advice": "早晚添衣"
+  },
+  "taoyuan": {
+    "minimum": 17.0,
+    "maximum": 22.0,
+    "rain": 100.0,
+    "condition": "毛毛雨",
+    "advice": "記得帶傘"
+  }
+}
