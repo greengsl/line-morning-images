@@ -1,0 +1,25 @@
+{
+  "date": "2026-11-10",
+  "layout": "square",
+  "source": "pexels",
+  "photographer": "Steven May",
+  "source_url": "https://www.pexels.com/photo/close-up-of-white-echinacea-bloom-in-garden-35164363/",
+  "pexels_photo_id": "35164363",
+  "blessing": "願今天有好天氣，也有好心情",
+  "photo_theme": "golden sunrise wildflower meadow nature",
+  "weather_source": "Open-Meteo",
+  "nantou": {
+    "minimum": 15.0,
+    "maximum": 23.0,
+    "rain": 0.0,
+    "condition": "多雲",
+    "advice": "早晚添衣"
+  },
+  "taoyuan": {
+    "minimum": 15.0,
+    "maximum": 20.0,
+    "rain": 75.0,
+    "condition": "毛毛雨",
+    "advice": "記得帶傘"
+  }
+}
