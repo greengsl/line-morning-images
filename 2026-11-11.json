@@ -1,0 +1,25 @@
+{
+  "date": "2026-11-11",
+  "layout": "portrait",
+  "source": "pexels",
+  "photographer": "정규송 Nui MALAMA",
+  "source_url": "https://www.pexels.com/photo/a-butterfly-on-a-flower-10998020/",
+  "pexels_photo_id": "10998020",
+  "blessing": "帶著微笑出發，迎接美好的一天",
+  "photo_theme": "butterfly wildflowers sunrise nature",
+  "weather_source": "Open-Meteo",
+  "nantou": {
+    "minimum": 16.0,
+    "maximum": 28.0,
+    "rain": 0.0,
+    "condition": "多雲",
+    "advice": "早晚添衣"
+  },
+  "taoyuan": {
+    "minimum": 17.0,
+    "maximum": 24.0,
+    "rain": 6.0,
+    "condition": "毛毛雨",
+    "advice": "早晚添衣"
+  }
+}
