@@ -1,0 +1,25 @@
+{
+  "date": "2026-11-12",
+  "layout": "landscape",
+  "source": "pexels",
+  "photographer": "Fabien Burgue",
+  "source_url": "https://www.pexels.com/photo/green-leafed-trees-3075084/",
+  "pexels_photo_id": "3075084",
+  "blessing": "新的一天，願一切平安順心",
+  "photo_theme": "peaceful deer forest lake sunrise nature",
+  "weather_source": "Open-Meteo",
+  "nantou": {
+    "minimum": 16.0,
+    "maximum": 28.0,
+    "rain": 0.0,
+    "condition": "有霧",
+    "advice": "早晚添衣"
+  },
+  "taoyuan": {
+    "minimum": 18.0,
+    "maximum": 29.0,
+    "rain": 0.0,
+    "condition": "多雲",
+    "advice": "早晚添衣"
+  }
+}
