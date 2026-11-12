@@ -1,0 +1,25 @@
+{
+  "date": "2026-11-13",
+  "layout": "square",
+  "source": "pexels",
+  "photographer": "Mathias Reding",
+  "source_url": "https://www.pexels.com/photo/grayscale-photography-of-bare-trees-in-the-woods-10974346/",
+  "pexels_photo_id": "10974346",
+  "blessing": "早安，願今天的每一步都從容自在",
+  "photo_theme": "serene forest trail wildflowers morning nature",
+  "weather_source": "Open-Meteo",
+  "nantou": {
+    "minimum": "待更新",
+    "maximum": "待更新",
+    "rain": "待更新",
+    "condition": "天氣更新中",
+    "advice": "出門前留意天氣"
+  },
+  "taoyuan": {
+    "minimum": "待更新",
+    "maximum": "待更新",
+    "rain": "待更新",
+    "condition": "天氣更新中",
+    "advice": "出門前留意天氣"
+  }
+}
