@@ -1,0 +1,25 @@
+{
+  "date": "2026-11-14",
+  "layout": "portrait",
+  "source": "pexels",
+  "photographer": "Oleg Prachuk",
+  "source_url": "https://www.pexels.com/photo/resort-in-the-mountains-in-sunlight-breaking-through-storm-cloud-8335856/",
+  "pexels_photo_id": "8335856",
+  "blessing": "願陽光與好事，都在今天與你相遇",
+  "photo_theme": "sun rays mountain meadow wildflowers nature",
+  "weather_source": "Open-Meteo",
+  "nantou": {
+    "minimum": "待更新",
+    "maximum": "待更新",
+    "rain": "待更新",
+    "condition": "天氣更新中",
+    "advice": "出門前留意天氣"
+  },
+  "taoyuan": {
+    "minimum": "待更新",
+    "maximum": "待更新",
+    "rain": "待更新",
+    "condition": "天氣更新中",
+    "advice": "出門前留意天氣"
+  }
+}
