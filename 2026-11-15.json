@@ -1,0 +1,25 @@
+{
+  "date": "2026-11-15",
+  "layout": "landscape",
+  "source": "pexels",
+  "photographer": "Helena Jankovičová Kováčová",
+  "source_url": "https://www.pexels.com/photo/serene-wildflower-field-in-soft-morning-light-29238674/",
+  "pexels_photo_id": "29238674",
+  "blessing": "願今天有好天氣，也有好心情",
+  "photo_theme": "golden sunrise wildflower meadow nature",
+  "weather_source": "Open-Meteo",
+  "nantou": {
+    "minimum": "待更新",
+    "maximum": "待更新",
+    "rain": "待更新",
+    "condition": "天氣更新中",
+    "advice": "出門前留意天氣"
+  },
+  "taoyuan": {
+    "minimum": "待更新",
+    "maximum": "待更新",
+    "rain": "待更新",
+    "condition": "天氣更新中",
+    "advice": "出門前留意天氣"
+  }
+}
