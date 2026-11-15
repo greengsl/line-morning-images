@@ -1,0 +1,25 @@
+{
+  "date": "2026-11-16",
+  "layout": "square",
+  "source": "pexels",
+  "photographer": "Rafael Minguet Delgado",
+  "source_url": "https://www.pexels.com/photo/close-up-of-swallowtail-butterfly-on-plant-31003026/",
+  "pexels_photo_id": "31003026",
+  "blessing": "帶著微笑出發，迎接美好的一天",
+  "photo_theme": "butterfly wildflowers sunrise nature",
+  "weather_source": "Open-Meteo",
+  "nantou": {
+    "minimum": 18.0,
+    "maximum": 27.0,
+    "rain": 12.0,
+    "condition": "陣雨",
+    "advice": "早晚添衣"
+  },
+  "taoyuan": {
+    "minimum": 19.0,
+    "maximum": 25.0,
+    "rain": 26.0,
+    "condition": "毛毛雨",
+    "advice": "舒適出門"
+  }
+}
