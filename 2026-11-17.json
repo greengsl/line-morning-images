@@ -1,0 +1,25 @@
+{
+  "date": "2026-11-17",
+  "layout": "portrait",
+  "source": "pexels",
+  "photographer": "Lorenza Magnaghi",
+  "source_url": "https://www.pexels.com/photo/serene-lake-view-with-sunlight-through-pine-branches-36634132/",
+  "pexels_photo_id": "36634132",
+  "blessing": "新的一天，願一切平安順心",
+  "photo_theme": "peaceful deer forest lake sunrise nature",
+  "weather_source": "Open-Meteo",
+  "nantou": {
+    "minimum": "待更新",
+    "maximum": "待更新",
+    "rain": "待更新",
+    "condition": "天氣更新中",
+    "advice": "出門前留意天氣"
+  },
+  "taoyuan": {
+    "minimum": "待更新",
+    "maximum": "待更新",
+    "rain": "待更新",
+    "condition": "天氣更新中",
+    "advice": "出門前留意天氣"
+  }
+}
