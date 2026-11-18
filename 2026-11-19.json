@@ -1,0 +1,25 @@
+{
+  "date": "2026-11-19",
+  "layout": "square",
+  "source": "pexels",
+  "photographer": "Petr Ganaj",
+  "source_url": "https://www.pexels.com/photo/purple-spring-vetch-20724870/",
+  "pexels_photo_id": "20724870",
+  "blessing": "願陽光與好事，都在今天與你相遇",
+  "photo_theme": "sun rays mountain meadow wildflowers nature",
+  "weather_source": "Open-Meteo",
+  "nantou": {
+    "minimum": 15.0,
+    "maximum": 21.0,
+    "rain": 33.0,
+    "condition": "有霧",
+    "advice": "早晚添衣"
+  },
+  "taoyuan": {
+    "minimum": 13.0,
+    "maximum": 19.0,
+    "rain": 98.0,
+    "condition": "陣雨",
+    "advice": "記得帶傘"
+  }
+}
