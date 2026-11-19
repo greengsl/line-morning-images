@@ -1,0 +1,25 @@
+{
+  "date": "2026-11-20",
+  "layout": "portrait",
+  "source": "pexels",
+  "photographer": "Вадим Гулай",
+  "source_url": "https://www.pexels.com/photo/sunset-meadow-with-wildflowers-and-grasses-38945512/",
+  "pexels_photo_id": "38945512",
+  "blessing": "願今天有好天氣，也有好心情",
+  "photo_theme": "golden sunrise wildflower meadow nature",
+  "weather_source": "Open-Meteo",
+  "nantou": {
+    "minimum": 14.0,
+    "maximum": 17.0,
+    "rain": 43.0,
+    "condition": "毛毛雨",
+    "advice": "早晚添衣"
+  },
+  "taoyuan": {
+    "minimum": 13.0,
+    "maximum": 18.0,
+    "rain": 6.0,
+    "condition": "多雲",
+    "advice": "早晚添衣"
+  }
+}
