@@ -1,0 +1,25 @@
+{
+  "date": "2026-11-21",
+  "layout": "landscape",
+  "source": "pexels",
+  "photographer": "Nurcan Aytas",
+  "source_url": "https://www.pexels.com/photo/delicate-butterfly-on-blooming-wildflowers-in-spring-32166641/",
+  "pexels_photo_id": "32166641",
+  "blessing": "帶著微笑出發，迎接美好的一天",
+  "photo_theme": "butterfly wildflowers sunrise nature",
+  "weather_source": "Open-Meteo",
+  "nantou": {
+    "minimum": 13.0,
+    "maximum": 23.0,
+    "rain": 62.0,
+    "condition": "毛毛雨",
+    "advice": "記得帶傘"
+  },
+  "taoyuan": {
+    "minimum": 13.0,
+    "maximum": 20.0,
+    "rain": 8.0,
+    "condition": "多雲",
+    "advice": "早晚添衣"
+  }
+}
