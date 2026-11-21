@@ -1,0 +1,25 @@
+{
+  "date": "2026-11-22",
+  "layout": "square",
+  "source": "pexels",
+  "photographer": "Denzel V",
+  "source_url": "https://www.pexels.com/photo/a-lake-surrounded-with-green-trees-under-blue-sky-13197214/",
+  "pexels_photo_id": "13197214",
+  "blessing": "新的一天，願一切平安順心",
+  "photo_theme": "peaceful deer forest lake sunrise nature",
+  "weather_source": "Open-Meteo",
+  "nantou": {
+    "minimum": 12.0,
+    "maximum": 24.0,
+    "rain": 0.0,
+    "condition": "有霧",
+    "advice": "早晚添衣"
+  },
+  "taoyuan": {
+    "minimum": 14.0,
+    "maximum": 22.0,
+    "rain": 0.0,
+    "condition": "晴朗",
+    "advice": "早晚添衣"
+  }
+}
