@@ -1,0 +1,25 @@
+{
+  "date": "2026-11-24",
+  "layout": "landscape",
+  "source": "pexels",
+  "photographer": "Q. Hưng Phạm",
+  "source_url": "https://www.pexels.com/photo/a-view-of-the-mountains-and-valleys-with-sun-rays-27362188/",
+  "pexels_photo_id": "27362188",
+  "blessing": "願陽光與好事，都在今天與你相遇",
+  "photo_theme": "sun rays mountain meadow wildflowers nature",
+  "weather_source": "Open-Meteo",
+  "nantou": {
+    "minimum": 15.0,
+    "maximum": 23.0,
+    "rain": 63.0,
+    "condition": "毛毛雨",
+    "advice": "記得帶傘"
+  },
+  "taoyuan": {
+    "minimum": 16.0,
+    "maximum": 19.0,
+    "rain": 100.0,
+    "condition": "陣雨",
+    "advice": "記得帶傘"
+  }
+}
