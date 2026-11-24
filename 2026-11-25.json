@@ -1,0 +1,25 @@
+{
+  "date": "2026-11-25",
+  "layout": "square",
+  "source": "pexels",
+  "photographer": "Siegfried Poepperl",
+  "source_url": "https://www.pexels.com/photo/vivid-yellow-daisy-in-full-bloom-38065090/",
+  "pexels_photo_id": "38065090",
+  "blessing": "願今天有好天氣，也有好心情",
+  "photo_theme": "golden sunrise wildflower meadow nature",
+  "weather_source": "Open-Meteo",
+  "nantou": {
+    "minimum": 14.0,
+    "maximum": 23.0,
+    "rain": 82.0,
+    "condition": "陣雨",
+    "advice": "記得帶傘"
+  },
+  "taoyuan": {
+    "minimum": 15.0,
+    "maximum": 19.0,
+    "rain": 33.0,
+    "condition": "毛毛雨",
+    "advice": "早晚添衣"
+  }
+}
