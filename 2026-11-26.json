@@ -1,0 +1,25 @@
+{
+  "date": "2026-11-26",
+  "layout": "portrait",
+  "source": "pexels",
+  "photographer": "Joy Saha",
+  "source_url": "https://www.pexels.com/photo/photo-of-a-butterfly-on-a-white-flower-12602045/",
+  "pexels_photo_id": "12602045",
+  "blessing": "帶著微笑出發，迎接美好的一天",
+  "photo_theme": "butterfly wildflowers sunrise nature",
+  "weather_source": "Open-Meteo",
+  "nantou": {
+    "minimum": 17.0,
+    "maximum": 23.0,
+    "rain": 76.0,
+    "condition": "陣雨",
+    "advice": "記得帶傘"
+  },
+  "taoyuan": {
+    "minimum": 17.0,
+    "maximum": 23.0,
+    "rain": 84.0,
+    "condition": "陣雨",
+    "advice": "記得帶傘"
+  }
+}
