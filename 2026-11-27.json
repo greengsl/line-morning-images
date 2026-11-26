@@ -1,0 +1,25 @@
+{
+  "date": "2026-11-27",
+  "layout": "landscape",
+  "source": "pexels",
+  "photographer": "Raul Ling",
+  "source_url": "https://www.pexels.com/photo/serene-sunrise-over-estonian-forest-reflected-in-lake-30949011/",
+  "pexels_photo_id": "30949011",
+  "blessing": "新的一天，願一切平安順心",
+  "photo_theme": "peaceful deer forest lake sunrise nature",
+  "weather_source": "Open-Meteo",
+  "nantou": {
+    "minimum": 18.0,
+    "maximum": 25.0,
+    "rain": 2.0,
+    "condition": "毛毛雨",
+    "advice": "早晚添衣"
+  },
+  "taoyuan": {
+    "minimum": 18.0,
+    "maximum": 24.0,
+    "rain": 6.0,
+    "condition": "有霧",
+    "advice": "早晚添衣"
+  }
+}
