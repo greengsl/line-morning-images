@@ -1,0 +1,25 @@
+{
+  "date": "2026-11-28",
+  "layout": "square",
+  "source": "pexels",
+  "photographer": "Vincent Nguyen",
+  "source_url": "https://www.pexels.com/photo/close-up-of-daisy-flowers-in-a-garden-26652766/",
+  "pexels_photo_id": "26652766",
+  "blessing": "早安，願今天的每一步都從容自在",
+  "photo_theme": "serene forest trail wildflowers morning nature",
+  "weather_source": "Open-Meteo",
+  "nantou": {
+    "minimum": 14.0,
+    "maximum": 25.0,
+    "rain": 19.0,
+    "condition": "有霧",
+    "advice": "早晚添衣"
+  },
+  "taoyuan": {
+    "minimum": 16.0,
+    "maximum": 23.0,
+    "rain": 1.0,
+    "condition": "多雲",
+    "advice": "早晚添衣"
+  }
+}
